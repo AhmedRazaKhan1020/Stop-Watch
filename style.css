@@ -1,0 +1,26 @@
+body{
+    background-color: #FFB703;
+    color: #023047;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+     
+}
+button{
+    gap: 60px;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: larger;
+    background-color:#FB8500;
+    font-weight:500;
+}
+h1{
+    font-size: 100px;
+}
